@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aadiba!
+- 👋 Hi, I’m Aadiba, a student studying Computer Science at NYU Tandon!
 - 👀 I’m interested in computer and data science (for social good) and social impact tech.
 - 🌱 I’m currently learning C++ and data science methodologies.
 - 💞️ I’m looking to collaborate on social impact projects.
